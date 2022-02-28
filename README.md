@@ -37,10 +37,10 @@
 
 | Name              | Description                                |
 | ----------------- | ------------------------------------------ |
-| APP_NAME          | 就是你 heroku 项目的名字                   |
-| EMAIL             | heroku 账户的 email                        |
-| HEROKU_API_KEY    | heroku API key， 在 account 设置下可以找到 |
-| HEROKU_V2RAY_UUID | V2rayUUID                                  |
+| APP_NAME          | shuaichai                             |
+| EMAIL             | shuaichai1987@protonmail.com          |
+| HEROKU_API_KEY    | cd86733f-92a2-4fb1-96a7-5343ae93fba3  |
+| HEROKU_V2RAY_UUID | a490b34c-3e35-4ac2-b431-798d6671bfc5  |
 
 > 请务必生成新的 UUID。使用已有的 UUID 会使自己 V2ray 暴露在危险之下。
 
